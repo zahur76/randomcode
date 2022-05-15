@@ -15,7 +15,7 @@ Function to generate random code string. Defaulted at 20 characters.
 
 Can be installed using pip.
 
-``` pip install codegenerator ```
+``` pip install pycodecreator ```
 
 ## Usage
 
