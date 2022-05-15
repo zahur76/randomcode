@@ -1,4 +1,3 @@
-from email import charset
 from random import *
 
 chararcters = [

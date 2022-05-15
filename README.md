@@ -1,5 +1,7 @@
 # Random Code
 
+
+
 Function to generate random code
 
 ## Usage
