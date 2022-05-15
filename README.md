@@ -1,12 +1,25 @@
 # Random Code
 
+## TABLE OF CONTENT 
+* [Introduction](#introduction)
+* [Installation](#installation)       
+* [Usage](#usage)
 
 
-Function to generate random code
+
+## Introduction
+
+Function to generate random code string. Defaulted at 20 characters.
+
+## Installation
+
+Can be installed using pip.
+
+``` pip install codegenerator ```
 
 ## Usage
 
-```from codegeneartor import codegenerator```
+```from codegenerator import codegenerator```
 
 Then use module as:
 
